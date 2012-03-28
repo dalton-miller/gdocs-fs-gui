@@ -1,0 +1,2 @@
+This is a GUI for the "google-docs-fs" scripts. Written in python2, 
+depends on wxPython and pexpect.
